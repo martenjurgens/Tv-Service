@@ -4,7 +4,6 @@ import { Container } from '@mui/material'
 
 const columns: GridColDef[] = [
   { field: 'id', headerName: 'ID', width: 50 },
-  { field: 'name', headerName: 'Package name', width: 120 },
   { field: 'status', headerName: 'Order status', width: 130 },
   { field: 'created_at', headerName: 'Created at', width: 160 },
   { field: 'updated_at', headerName: 'Updated at', width: 160 }
