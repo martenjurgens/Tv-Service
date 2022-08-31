@@ -32,7 +32,9 @@ Start the server
 ## Stack
 
 **Client:** React, Material-UI, React Router
+
 **Server:** Spring Boot, MySQL
+
 ***JDK***: Java 17
 
 
